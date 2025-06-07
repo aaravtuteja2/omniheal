@@ -3,7 +3,7 @@
     <title>Omniheal.ca</title>
     <link href="https://aaravtuteja2.github.io/omniheal/feed.xml" rel="self" />
     <link href="https://aaravtuteja2.github.io/omniheal" />
-    <updated>2025-06-05T18:41:51-04:00</updated>
+    <updated>2025-06-07T13:42:34-04:00</updated>
     <author>
         <name>Arvind Tuteja</name>
     </author>
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h1><strong>Introduction</strong></h1>
+                <h2><strong>Introduction</strong></h2>
 <p>Aging is a natural process, but science shows that how we age can be influenced by certain choices and habits. One of the most exciting ideas in this area is called <i>hormesis</i>. This concept explains how a little bit of stress on the body—the right kind at the right dose—can actually make us healthier and help us live longer. Hormesis helps our bodies get stronger and better at protecting themselves, especially as we age.</p>
 <h2><strong>What is Hormesis?</strong></h2>
 <p>Hormesis is a biological phenomenon where low doses of a harmful agent or stressor produce beneficial effects. In simple terms, what doesn’t kill you can make you stronger—if the dose is low enough. This happens because the body reacts to small stress by activating repair and defense systems. These systems make our cells tougher and more efficient. For example, a little bit of heat, cold, or fasting stresses the body in a good way, triggering processes that help us stay healthy <span style="color: #0563c1;"><u><a href="https://pubmed.ncbi.nlm.nih.gov/20350594/">(1)</a></u></span>.</p>
@@ -150,37 +150,23 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://aaravtuteja2.github.io/omniheal/media/posts/6/depression-stock.avif" class="type:primaryImage" alt="" /></p>
-                <p><b>Introduction</b><b>
-</b><span style="font-weight: 400;">Depression affects millions worldwide, presenting not only as persistent sadness but also as a mix of emotional, physical, and cognitive symptoms. While conventional treatments like medication and therapy are helpful, they don’t address the root causes for everyone. Functional medicine takes a different approach, looking at the interconnected systems in the body to find and treat the underlying imbalances contributing to depression.</span></p>
-<p><b>Functional Medicine and Root Causes</b></p>
+                <p><strong>Introduction</strong><strong> </strong></p>
+<p><span style="font-weight: 400;">Depression affects millions worldwide, presenting not only as persistent sadness but also as a mix of emotional, physical, and cognitive symptoms. While conventional treatments like medication and therapy are helpful, they don’t address the root causes for everyone. Functional medicine takes a different approach, looking at the interconnected systems in the body to find and treat the underlying imbalances contributing to depression.</span></p>
+<p><strong>Functional Medicine and Root Causes</strong></p>
 <ol>
- 	
-<li style="font-weight: 400;" aria-level="1"><b>Hormonal Imbalances</b><b>
-</b><span style="font-weight: 400;">Dysregulated cortisol, thyroid hormones, or sex hormones can influence mood and energy. For instance, hypothyroidism is often associated with depressive symptoms </span><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9392461/"><span style="font-weight: 400;">(1)</span></a><span style="font-weight: 400;">. Adrenal dysfunction, which disrupts the hypothalamic-pituitary-adrenal (HPA) axis, can also exacerbate depression </span><a href="https://pubmed.ncbi.nlm.nih.gov/18675469/"><span style="font-weight: 400;">(2)</span></a><span style="font-weight: 400;">.</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Gut-Brain Axis</b><b>
-</b><span style="font-weight: 400;">The connection between the gut and brain is undeniable. Research shows that an imbalance in gut microbiota (dysbiosis) can lead to increased inflammation and disruption of the gut-brain communication, significantly impacting mood </span><a href="https://pubmed.ncbi.nlm.nih.gov/22968153/"><span style="font-weight: 400;">(3)</span></a><span style="font-weight: 400;">. A study revealed that probiotics could reduce depressive symptoms by modulating the gut microbiome </span><a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2020.00421/full"><span style="font-weight: 400;">(4</span></a><span style="font-weight: 400;">).</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Neurotransmitter Dysfunction</b><b>
-</b><span style="font-weight: 400;">Functional medicine evaluates neurotransmitter health, such as serotonin, dopamine, and GABA. Studies show that deficiencies in amino acid precursors like tryptophan and nutrients like vitamin B6 and magnesium impair neurotransmitter function and supplementation and replenishment of these substances involved in neurotransmitter physiology can be a good option for a more optimal management of Depression </span><a href="https://pubmed.ncbi.nlm.nih.gov/12420702/"><span style="font-weight: 400;">(5)</span></a> <a href="https://pubmed.ncbi.nlm.nih.gov/16542786/"><span style="font-weight: 400;">(6</span></a><span style="font-weight: 400;">).</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Chronic Inflammation and Oxidative Stress</b><b>
-</b><span style="font-weight: 400;">Elevated levels of inflammatory markers, such as C-reactive protein (CRP) and cytokines, have been consistently linked to depression </span><a href="https://pubmed.ncbi.nlm.nih.gov/26711676/"><span style="font-weight: 400;">(7)</span></a><span style="font-weight: 400;">. Identifying the factors associated with inflammation provides the option of managing it through manipulating these factors and through diet and lifestyle interventions (</span><a href="https://pubmed.ncbi.nlm.nih.gov/24228900/"><span style="font-weight: 400;">8)</span></a><span style="font-weight: 400;">.</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Hormonal Imbalances</strong><strong> </strong><span style="font-weight: 400;">Dysregulated cortisol, thyroid hormones, or sex hormones can influence mood and energy. For instance, hypothyroidism is often associated with depressive symptoms </span><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9392461/"><span style="font-weight: 400;">(1)</span></a><span style="font-weight: 400;">. Adrenal dysfunction, which disrupts the hypothalamic-pituitary-adrenal (HPA) axis, can also exacerbate depression </span><a href="https://pubmed.ncbi.nlm.nih.gov/18675469/"><span style="font-weight: 400;">(2)</span></a><span style="font-weight: 400;">.</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Gut-Brain Axis</strong><strong> </strong><span style="font-weight: 400;">The connection between the gut and brain is undeniable. Research shows that an imbalance in gut microbiota (dysbiosis) can lead to increased inflammation and disruption of the gut-brain communication, significantly impacting mood </span><a href="https://pubmed.ncbi.nlm.nih.gov/22968153/"><span style="font-weight: 400;">(3)</span></a><span style="font-weight: 400;">. A study revealed that probiotics could reduce depressive symptoms by modulating the gut microbiome </span><a href="https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2020.00421/full"><span style="font-weight: 400;">(4</span></a><span style="font-weight: 400;">).</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Neurotransmitter Dysfunction</strong><strong> </strong><span style="font-weight: 400;">Functional medicine evaluates neurotransmitter health, such as serotonin, dopamine, and GABA. Studies show that deficiencies in amino acid precursors like tryptophan and nutrients like vitamin B6 and magnesium impair neurotransmitter function and supplementation and replenishment of these substances involved in neurotransmitter physiology can be a good option for a more optimal management of Depression </span><a href="https://pubmed.ncbi.nlm.nih.gov/12420702/"><span style="font-weight: 400;">(5)</span></a> <a href="https://pubmed.ncbi.nlm.nih.gov/16542786/"><span style="font-weight: 400;">(6</span></a><span style="font-weight: 400;">).</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Chronic Inflammation and Oxidative Stress</strong><strong> </strong><span style="font-weight: 400;">Elevated levels of inflammatory markers, such as C-reactive protein (CRP) and cytokines, have been consistently linked to depression </span><a href="https://pubmed.ncbi.nlm.nih.gov/26711676/"><span style="font-weight: 400;">(7)</span></a><span style="font-weight: 400;">. Identifying the factors associated with inflammation provides the option of managing it through manipulating these factors and through diet and lifestyle interventions (</span><a href="https://pubmed.ncbi.nlm.nih.gov/24228900/"><span style="font-weight: 400;">8)</span></a><span style="font-weight: 400;">.</span></li>
 </ol>
-<p>
-<b>Treatment Strategies in Functional Medicine</b></p>
+<p><strong>Treatment Strategies in Functional Medicine</strong></p>
 <ol>
- 	
-<li style="font-weight: 400;" aria-level="1"><b>Personalized Nutrition</b><b>
-</b><span style="font-weight: 400;">Functional medicine practitioners often recommend anti-inflammatory diets like the Mediterranean diet. This diet has been linked to reduced depression rates due to its high levels of omega-3 fatty acids, antioxidants, and phytonutrients </span><a href="https://pubmed.ncbi.nlm.nih.gov/30591059/"><span style="font-weight: 400;">(9)</span></a><span style="font-weight: 400;">.</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Supplementation</b><b>
-</b><span style="font-weight: 400;">Targeted supplements, such as omega-3 fatty acids and vitamin D, have been shown to improve mood and overall brain health </span><a href="https://pubmed.ncbi.nlm.nih.gov/23377209/"><span style="font-weight: 400;">(10)</span></a> <a href="https://pubmed.ncbi.nlm.nih.gov/21939614/"><span style="font-weight: 400;">(11)</span></a><span style="font-weight: 400;">  Sublette et al., 2011; Anglin et al., 2013). Magnesium supplementation has also been found to alleviate symptoms of major depression </span><a href="https://pubmed.ncbi.nlm.nih.gov/16542786/"><span style="font-weight: 400;">(6</span></a><span style="font-weight: 400;">).</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Lifestyle Interventions</b><b>
-</b><span style="font-weight: 400;">Lifestyle factors like stress management, regular exercise, and mindfulness practices can significantly impact mental health. Exercise has been proven to increase endorphin levels and reduce inflammation (</span><a href="https://pubmed.ncbi.nlm.nih.gov/29150166/"><span style="font-weight: 400;">12</span></a><span style="font-weight: 400;">).</span></li>
-<li style="font-weight: 400;" aria-level="1"><b>Advanced Testing</b><b>
-</b><span style="font-weight: 400;">Functional medicine practitioners use advanced testing to assess deficiencies, hormone levels, and gut health. This personalized approach ensures targeted treatments for optimal outcomes.</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Personalized Nutrition</strong><strong> </strong><span style="font-weight: 400;">Functional medicine practitioners often recommend anti-inflammatory diets like the Mediterranean diet. This diet has been linked to reduced depression rates due to its high levels of omega-3 fatty acids, antioxidants, and phytonutrients </span><a href="https://pubmed.ncbi.nlm.nih.gov/30591059/"><span style="font-weight: 400;">(9)</span></a><span style="font-weight: 400;">.</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Supplementation</strong><strong> </strong><span style="font-weight: 400;">Targeted supplements, such as omega-3 fatty acids and vitamin D, have been shown to improve mood and overall brain health </span><a href="https://pubmed.ncbi.nlm.nih.gov/23377209/"><span style="font-weight: 400;">(10)</span></a> <a href="https://pubmed.ncbi.nlm.nih.gov/21939614/"><span style="font-weight: 400;">(11)</span></a><span style="font-weight: 400;">  Sublette et al., 2011; Anglin et al., 2013). Magnesium supplementation has also been found to alleviate symptoms of major depression </span><a href="https://pubmed.ncbi.nlm.nih.gov/16542786/"><span style="font-weight: 400;">(6</span></a><span style="font-weight: 400;">).</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Lifestyle Interventions</strong><strong> </strong><span style="font-weight: 400;">Lifestyle factors like stress management, regular exercise, and mindfulness practices can significantly impact mental health. Exercise has been proven to increase endorphin levels and reduce inflammation (</span><a href="https://pubmed.ncbi.nlm.nih.gov/29150166/"><span style="font-weight: 400;">12</span></a><span style="font-weight: 400;">).</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>Advanced Testing</strong><strong> </strong><span style="font-weight: 400;">Functional medicine practitioners use advanced testing to assess deficiencies, hormone levels, and gut health. This personalized approach ensures targeted treatments for optimal outcomes.</span></li>
 </ol>
-<p>
-<b>Conclusion</b><b>
-</b><span style="font-weight: 400;">Depression is a complex condition that often requires a multifaceted approach. Functional medicine emphasizes addressing the root causes rather than just alleviating symptoms. Through personalized nutrition, targeted supplementation, and lifestyle changes, this approach offers hope to those struggling with depression.</span></p>
-
+<p><strong>Conclusion</strong><strong> </strong><span style="font-weight: 400;">Depression is a complex condition that often requires a multifaceted approach. Functional medicine emphasizes addressing the root causes rather than just alleviating symptoms. Through personalized nutrition, targeted supplementation, and lifestyle changes, this approach offers hope to those struggling with depression.</span></p>
             ]]>
         </content>
     </entry>
@@ -209,7 +195,7 @@
 <p>What are some of these strategies to do this? Actually, some of them are quite simple, like exercise (that quintessential golden bullet!)</p>
 <p>Exercise stimulates mitochondria and reduces neurodegeneration.</p>
 <p>Dietary changes, certain foods, and some nutritional supplements can help recharge and replace old mitochondria to provide better energy production, better cognitive function, and healthier ageing. See your naturopath to learn more about these healthy ageing measures can help you age gracefully, and keep your brain healthy</p>
-
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -242,7 +228,6 @@
 <p><span style="font-weight: 400;">Physical actions can also cause and relieve pain. Regular exercise acts on at least two levels, one through release of endorphins in  the brain , then through  enabling a healthy immunity, and through creating a stronger system in terms of the physical body better able to tackle pain. Strengthening the physical elements may be all that is needed and that maybe all that is the root cause of pain.</span></p>
 <p><span style="font-weight: 400;">So start your journey to a better, happier life and tackle your pain. A naturopath who will take a comprehensive intake over a 1-11/2 hour period maybe best suited to sit down with you to help you get to the root cause of your pain. And the earlier it is tackled the better to prevent progression and to allow you to get back into the flow of your life.</span></p>
 <p><span style="font-weight: 400;">Here's to a happier pain free flow of life for all of us. May the positive force be with you!</span></p>
-
             ]]>
         </content>
     </entry>
@@ -265,13 +250,13 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://aaravtuteja2.github.io/omniheal/media/posts/3/julien-tromeur-7mnp_gV8TUA-unsplash-scaled.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="size-medium wp-image-654 aligncenter"><span style="font-weight: 400;"><img loading="lazy"  src="https://aaravtuteja2.github.io/omniheal/media/posts/3/julien-tromeur-7mnp_gV8TUA-unsplash-300x169.jpg" alt="" width="300" height="169"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://aaravtuteja2.github.io/omniheal/media/posts/3/responsive/julien-tromeur-7mnp_gV8TUA-unsplash-300x169-xs.jpg 300w ,https://aaravtuteja2.github.io/omniheal/media/posts/3/responsive/julien-tromeur-7mnp_gV8TUA-unsplash-300x169-sm.jpg 480w ,https://aaravtuteja2.github.io/omniheal/media/posts/3/responsive/julien-tromeur-7mnp_gV8TUA-unsplash-300x169-md.jpg 768w ,https://aaravtuteja2.github.io/omniheal/media/posts/3/responsive/julien-tromeur-7mnp_gV8TUA-unsplash-300x169-lg.jpg 1024w ,https://aaravtuteja2.github.io/omniheal/media/posts/3/responsive/julien-tromeur-7mnp_gV8TUA-unsplash-300x169-xl.jpg 1360w ,https://aaravtuteja2.github.io/omniheal/media/posts/3/responsive/julien-tromeur-7mnp_gV8TUA-unsplash-300x169-2xl.jpg 1600w"></figure></span></p>
+                <figure class="size-medium wp-image-654 aligncenter"><span style="font-weight: 400;"><img loading="lazy"  src="https://aaravtuteja2.github.io/omniheal/media/posts/3/julien-tromeur-7mnp_gV8TUA-unsplash-300x169.jpg" alt="" width="300" height="169" sizes="(max-width: 48em) 100vw, 768px" srcset="https://aaravtuteja2.github.io/omniheal/media/posts/3/responsive/julien-tromeur-7mnp_gV8TUA-unsplash-300x169-xs.jpg 300w ,https://aaravtuteja2.github.io/omniheal/media/posts/3/responsive/julien-tromeur-7mnp_gV8TUA-unsplash-300x169-sm.jpg 480w ,https://aaravtuteja2.github.io/omniheal/media/posts/3/responsive/julien-tromeur-7mnp_gV8TUA-unsplash-300x169-md.jpg 768w ,https://aaravtuteja2.github.io/omniheal/media/posts/3/responsive/julien-tromeur-7mnp_gV8TUA-unsplash-300x169-lg.jpg 1024w ,https://aaravtuteja2.github.io/omniheal/media/posts/3/responsive/julien-tromeur-7mnp_gV8TUA-unsplash-300x169-xl.jpg 1360w ,https://aaravtuteja2.github.io/omniheal/media/posts/3/responsive/julien-tromeur-7mnp_gV8TUA-unsplash-300x169-2xl.jpg 1600w"></figure></span></p>
 <p><span style="font-weight: 400;">No, we are not talking about gut feelings or instincts today (though we might delve into that at some point too!). We are talking about your gut health and any symptoms of an imbalance or gut dysfunction. This is an important topic because you ignore these symptoms at your own peril:)! After all, you are what you imbibe, and what are you imbibing more than the food and liquid through your gut? (apart from the intangibles through your other senses, which as we previously made clear is a matter for another day:).</span></p>
 <p><span style="font-weight: 400;">However, not to stray from the topic at hand, what I am trying to emphasize here is the importance of the diet you take, and how you take it. And likely your gut will understand first whether you are feeding it properly or not, and will communicate that with you through some symptoms, possibly digestive issues. This is your gut telling you to make some changes. Soon. For starters, it wants you to reduce the processed foods and artificial sugars in your diet! </span></p>
 <p><span style="font-weight: 400;">When God or The Higher Power (or Evolution) made you, they also made for you natural sources of nourishment and relied on you to imbibe these natural foods for which they prepared your body's digestive systems. They did not prepare your body to deal with some fancy chemicals with un-pronouncable names and did not expect you to imbibe them and put your gut and body in complete confusion! So ditch these now and take some healthy foods and fibers instead, and if needed have your gut looked at by a naturopath to assist in healing it from the damage that has ensued.</span></p>
 <p><span style="font-weight: 400;">When such insults to your gut are perpetrated and its protesting symptoms ignored, that will also likely go on to influence your energy, your hormones, your inflammatory and immune components if allowed to proceed further. So do yourself a favor and don't ignore these symptoms. If you are having symptoms of heaviness, or reflux, or cough or brain fog after eating, or IBS (a topic in itself for another day), or constipation or recurrent diarrhea, it is good to get some support sooner than later.</span></p>
 <p><span style="font-weight: 400;">To learn more on how to optimize your diet and nutrition, and to address your digestive symptoms before things proceed further, do indulge in some self care and book an appointment with your friendly neighborhood naturopath or functional medicine practitioner, for some comprehensive holistic care to get back your happy worry free gut feeling and life back!</span></p>
-
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -302,7 +287,6 @@
 <p><span style="font-weight: 400;">Amino acid supplements like 5 HTP, L threonine, glycine are the  building blocks of neurotransmitters like serotonin and GABA, which can help. Omega 3 supplements have a large role as well.</span></p>
 <p><span style="font-weight: 400;">Botanicals like passionflower, valerian, saffron , and of course SJW can help. These should however be taken under naturopathic supervision to avoid side effects like photosensitivity and numerous drug reactions in case of SJW.</span></p>
 <p><span style="font-weight: 400;">Depression has a large worldwide incidence, and progression in severity can lead to the risk of suicide and catatonic behaviour. So don’t delay treatment, and contact a naturopathic doctor for a comprehensive holistic evaluation and safer and supportive treatment options.</span></p>
-
             ]]>
         </content>
     </entry>
@@ -319,13 +303,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://aaravtuteja2.github.io/omniheal/media/posts/1/Omni-Heal2.jpeg" alt="" />
-                    [et_pb_section fb_built="1" _builder_version="4.18.0" _module_preset="default" global_colors_info="{}"][et_pb_row _builder_version="4.18.0" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.18.0" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.18.0" _module_preset="default" global_colors_info="{}"] Joint pains and joint swelling are not a&hellip;
+                    Joint pains and joint swelling are not a pleasant sensation to have, to say the least. The causes can be varied, the presentation&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://aaravtuteja2.github.io/omniheal/media/posts/1/Omni-Heal2.jpeg" class="type:primaryImage" alt="" /></p>
-                <p>[et_pb_section fb_built="1" _builder_version="4.18.0" _module_preset="default" global_colors_info="{}"][et_pb_row _builder_version="4.18.0" _module_preset="default" global_colors_info="{}"][et_pb_column type="4_4" _builder_version="4.18.0" _module_preset="default" global_colors_info="{}"][et_pb_text _builder_version="4.18.0" _module_preset="default" global_colors_info="{}"]
+                <p> </p>
 <p>Joint pains and joint swelling are not a pleasant sensation to have, to say the least. The causes can be varied, the presentation can be varied, it could be an osteoarthritis or it could be a rheumatoid arthritis, it could have appeared seemingly suddenly, or it could be an insidious onset.</p>
 <p>Osteoarthritis is more of a wear and tear with some inflammation, whereas Rheumatoid arthritis is an autoimmune response. Lupus is another autoimmune affliction, as is also psoriatic arthritis, which can cause joint issues too. Rheumatoid Arthritis usually attacks the small joints in your hands and feet whereas Osteoarthritis more likely affects more the weight-bearing joints like hips and knees. Treatment options depend on the type of arthritis as well. Mainstays of treatment are usually anti-inflammatories and analgesics, locally applied or systemic.</p>
 <p>Physiotherapy and exercise are usually of immense help. What we fail to take into cognizance, however, are some root underlying causes. Increasing evidence is emerging on the association of conditions like leaky gut syndrome[1], or a disruption in the gut microbiome[2], and consequent inflammatory increases with joint symptom exacerbations, and of of consequent autoimmune responses leading to conditions like Rheumatoid arthritis, which may in some cases emerge into awareness post a stomach flu like infection, some of the causative organisms of which have been linked to autoimmunity.</p>
@@ -335,8 +319,7 @@
 <p>Book your complementary call or visit with us to see if we can help you.</p>
 <p>1. Guido G, Ausenda G, Iascone V, Chisari E. Gut permeability and osteoarthritis, towards a mechanistic understanding of the pathogenesis: a systematic review.</p>
 <p>Ann Med. 2021 Dec;53(1):2380-2390. doi: 10.1080/07853890.2021.2014557.<br>PMID: 34933614; PMCID: PMC8725942.<br>2. Taneja V. Arthritis susceptibility and the gut microbiome. FEBS Lett. 2014<br>Nov 17;588(22):4244-9. doi: 10.1016/j.febslet.2014.05.034. Epub 2014<br>May 27. PMID: 24873878; PMCID: PMC4246018.</p>
-<p>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]</p>
-
+<p> </p>
             ]]>
         </content>
     </entry>
